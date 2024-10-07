@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_CSharpEgitimi", "01_CSha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_CSharpEgitimiVariables", "02_CSharpEgitimiVariables\02_CSharpEgitimiVariables.csproj", "{0C681BFB-1085-4772-BDAE-F4EAA85F3417}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_CSharpEgitimiMakingDesicions", "03_CSharpEgitimiMakingDesicions\03_CSharpEgitimiMakingDesicions.csproj", "{74F1E657-56A3-416F-8D1F-FDBA5D9DD8CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0C681BFB-1085-4772-BDAE-F4EAA85F3417}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C681BFB-1085-4772-BDAE-F4EAA85F3417}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C681BFB-1085-4772-BDAE-F4EAA85F3417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F1E657-56A3-416F-8D1F-FDBA5D9DD8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F1E657-56A3-416F-8D1F-FDBA5D9DD8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F1E657-56A3-416F-8D1F-FDBA5D9DD8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F1E657-56A3-416F-8D1F-FDBA5D9DD8CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
