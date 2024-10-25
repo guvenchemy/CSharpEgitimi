@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{163DD4C3-3F91-486A-AFB3-7D1B2C699DDF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_08_CSharpEg</RootNamespace>
-    <AssemblyName>08_CSharpEg</AssemblyName>
+    <RootNamespace>_08_CSharpEgitimiMethods</RootNamespace>
+    <AssemblyName>08_CSharpEgitimiMethods</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

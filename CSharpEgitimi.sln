@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_CSharpEgitimiArrays", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_CSharpEgitimiForeachDongusu", "07_CSharpEgitimiForeachDongusu\07_CSharpEgitimiForeachDongusu.csproj", "{0A257CF2-EB3E-4B65-85E7-15F8ECD8C33E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_CSharpEgitiniMethods", "08_CSharpEg\08_CSharpEgitiniMethods.csproj", "{163DD4C3-3F91-486A-AFB3-7D1B2C699DDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_CSharpEgitiniMethods", "08_CSharpEgitimiMethods\08_CSharpEgitiniMethods.csproj", "{163DD4C3-3F91-486A-AFB3-7D1B2C699DDF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_CSharpEgitimiSQLDatabaseProject", "09_CSharpEgitimiSQLDatabaseProject\09_CSharpEgitimiSQLDatabaseProject.csproj", "{47BB036F-E2C5-4B96-A8E7-8C1CFDF1D65B}"
 EndProject
